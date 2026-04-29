@@ -1,0 +1,9 @@
+{
+  "name": "@undevquicourt/trail",
+  "version": "0.0.1",
+  "description": "Coming soon. Les jambes sont pas encore prêtes.",
+  "scripts": {
+    "start": "echo 'not yet. recovering.'",
+    "echappee-belle": "echo 'patience.'"
+  }
+}

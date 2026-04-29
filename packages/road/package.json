@@ -1,0 +1,11 @@
+{
+  "name": "@undevquicourt/road",
+  "version": "1.0.0",
+  "description": "Premier marathon. Aucune idée de ce que je fais.",
+  "scripts": {
+    "start": "run --distance 42.195 --unit km --experience none",
+    "test": "jest --coverage",
+    "splits": "node scripts/calculate-splits.js",
+    "recover": "sleep 72h"
+  }
+}
