@@ -1,16 +1,22 @@
-## Hi there 👋
+# @undevquicourt
 
-<!--
-**undevquicourt/undevquicourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Senior dev. Junior runner.
 
-Here are some ideas to get you started:
+Lead dev full-stack TypeScript/Python le jour.
+Trail runner le reste du temps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status
+
+```text
+✅ Marathon de Paris 2026    — 3:33:53 (negative split)
+⏳ Échappée Belle            — 63 km, 4 770 D+ — 22 août 2026
+```
+
+## Stack
+`TypeScript` · `Python` 
+
+## Terrain
+Trail · Route · Dénivelé · Courbatures
+
+## Links
+📸 [@undevquicourt](https://instagam.com/undevquicourt) sur Instagram
