@@ -1,7 +1,7 @@
 export const runner = {
   name: "Nicolas",
-  type: "trail",
-  marathons: 0,
+  types: ["trail","road"],
+  marathons: 1,
   weeklyKm: 60,
 };
 
