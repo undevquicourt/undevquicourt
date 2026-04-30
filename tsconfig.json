@@ -3,6 +3,7 @@
     "target": "ES2022",
     "module": "ESNext",
     "moduleResolution": "node",
+    "esModuleInterop": true,
     "lib": ["ES2022"],
     "strict": true,
     "allowJs": true,

@@ -1,0 +1,1 @@
+export type HMSTime = `${number}${number}:${number}${number}:${number}${number}`;
